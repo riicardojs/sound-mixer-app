@@ -1,0 +1,14 @@
+{
+  "name": "sound-mixer-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/riicardojs/sound-mixer-app.git",
+  "author": "riicardojs <ricardo.jeronymo@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^9.2.0"
+  }
+}
